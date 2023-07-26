@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BinaryConvertor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:colorPrimaryDark">#526D82</item>
+        <item name="colorAccent">#526D82</item>
+        <item name="android:textColorHint">#526D82</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BinaryConvertor" parent="Base.Theme.BinaryConvertor" />
+</resources>
